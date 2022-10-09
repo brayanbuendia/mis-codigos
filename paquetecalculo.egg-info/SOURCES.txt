@@ -1,0 +1,9 @@
+setup.py
+modulos_python/modulopython.py
+modulos_python/moduloresuelto.py
+modulos_python/suma/__init__.py
+modulos_python/suma/sumas.py
+paquetecalculo.egg-info/PKG-INFO
+paquetecalculo.egg-info/SOURCES.txt
+paquetecalculo.egg-info/dependency_links.txt
+paquetecalculo.egg-info/top_level.txt
